@@ -1,6 +1,6 @@
-# contador
+# SFW
 
-A new Flutter project.
+This app is just to see how the StateFullWidget actually works 
 
 ## Getting Started
 
